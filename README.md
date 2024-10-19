@@ -9,7 +9,8 @@ This project demonstrates a basic DDoS (Distributed Denial of Service) protectio
 <img width="12" />
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
 <img width="12" />
-## Features
+
+##  Features
 
 - **Rate Limiting:** Limits the number of requests per minute from a single IP address using Flask-Limiter.
 - **Redis Integration:** Logs IP addresses and request timestamps in a Redis database.

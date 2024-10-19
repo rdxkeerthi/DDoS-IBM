@@ -93,7 +93,8 @@ def ratelimit_error(e):
 - Research on the effectiveness of rate limiting in preventing DDoS attacks (e.g., studies)
 ## Industry Reports 
 - Global DDoS attack landscape reports from cybersecurity firms like **Akamai**, **Cloudflare**, and **Kaspersky**, showcasing evolving attack vectors and successful mitigations.
-
+## Netflix Clone Website in the Demo
+- The Netflix clone serves as a demonstration of what the user would see after successfully passing the DDoS protection measures (i.e., rate-limiting and human verification).
 ## WorkFlow
 ![sih](https://github.com/user-attachments/assets/3440f6bf-ee0e-4779-8646-54a34c052260)
 ![sih2](https://github.com/user-attachments/assets/ed35e36c-eb32-4260-9cec-d88f37451b92)

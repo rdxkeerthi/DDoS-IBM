@@ -96,3 +96,30 @@ def ratelimit_error(e):
 
 ## WorkFlow
 ![sih](https://github.com/user-attachments/assets/3440f6bf-ee0e-4779-8646-54a34c052260)
+![sih2](https://github.com/user-attachments/assets/ed35e36c-eb32-4260-9cec-d88f37451b92)
+
+# Technical Output for the DDoS Protection System in Cloud Architecture
+###  IP Logging Middleware
+
+- **Purpose:** Logs user IP address with timestamps to monitor access patterns.
+- **Key Functionality:**
+      - `log_ip()` function captures the user's IP from request.`remote_addr`` and stores it in a JSON file.
+  
+  - **Example log data format:**
+  ```json
+  {
+  "ip": "127.0.0.1",
+  "timestamp": "2024-10-19T10:00:00Z" }
+  ```
+
+# Technical Output
+![sih3](https://github.com/user-attachments/assets/62fbb158-0c3a-4f98-9f73-5021d1eb2071)
+![sih4](https://github.com/user-attachments/assets/8732e648-402b-49e4-ab6c-460f2167205b)
+![sih5](https://github.com/user-attachments/assets/26b610e8-03f4-4c54-bddd-912683769a4e)
+![sih6](https://github.com/user-attachments/assets/3113ffe9-114f-4567-b540-4a41765f8882)
+![sih7](https://github.com/user-attachments/assets/cae9d532-742a-4fb9-b127-703c897dc84b)
+![sih8](https://github.com/user-attachments/assets/d6a22921-446f-4004-b5bc-6d449eb64903)
+![sih9](https://github.com/user-attachments/assets/82732633-5db8-41c4-9dbe-dfa4a930c831)
+![sih10](https://github.com/user-attachments/assets/0c77e6be-31e4-48bd-a89c-fc65e31a9036)
+
+

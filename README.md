@@ -3,11 +3,11 @@
 This project demonstrates a basic DDoS (Distributed Denial of Service) protection system built using Flask, Flask-Limiter, and Redis. It implements rate-limiting to prevent excessive requests from malicious users, and provides a simple human verification mechanism when the rate limit is exceeded.
 # Technology Used
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="3" alt="python logo"  />
 <img width="1" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="3" alt="linux logo"  />
 <img width="1" />
-<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
+<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="3" alt="ubuntu logo"  />
 <img width="1" />
 
 ##  Features

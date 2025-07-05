@@ -4,11 +4,11 @@ This project demonstrates a basic DDoS (Distributed Denial of Service) protectio
 # Technology Used
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-<img width="12" />
+<img width="1" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-<img width="12" />
+<img width="1" />
 <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
-<img width="12" />
+<img width="1" />
 
 ##  Features
 
